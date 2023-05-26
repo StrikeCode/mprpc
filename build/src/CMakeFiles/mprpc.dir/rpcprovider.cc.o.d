@@ -343,4 +343,10 @@ src/CMakeFiles/mprpc.dir/rpcprovider.cc.o: \
  /usr/local/include/google/protobuf/map_field_lite.h \
  /usr/local/include/google/protobuf/inlined_string_field.h \
  /usr/local/include/google/protobuf/extension_set.h \
- /usr/include/c++/9/cassert
+ /usr/include/c++/9/cassert \
+ /home/jyhlinux/share/mprpc/src/include/logger.h \
+ /home/jyhlinux/share/mprpc/src/include/lockqueue.h \
+ /usr/include/c++/9/queue /usr/include/c++/9/deque \
+ /usr/include/c++/9/bits/stl_deque.h /usr/include/c++/9/bits/deque.tcc \
+ /usr/include/c++/9/bits/stl_queue.h /usr/include/c++/9/thread \
+ /usr/include/c++/9/condition_variable
