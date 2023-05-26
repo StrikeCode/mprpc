@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package mprpc;
+
+// 定义RPC请求头消息格式
+message RpcHeader
+{
+    bytes service_name = 1;  // 请求的服务名
+    bytes method_name = 2;  // 请求的方法名
+    uint32 args_size = 3;   // 请求的方法的参数大小
+}
