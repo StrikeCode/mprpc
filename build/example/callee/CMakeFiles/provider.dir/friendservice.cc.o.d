@@ -340,4 +340,10 @@ example/callee/CMakeFiles/provider.dir/friendservice.cc.o: \
  /usr/local/include/boost/core/enable_if.hpp \
  /usr/local/include/boost/type_traits/is_same.hpp \
  /usr/include/muduo/net/EventLoop.h /usr/include/muduo/base/Mutex.h \
- /usr/include/muduo/base/CurrentThread.h /usr/include/muduo/net/TimerId.h
+ /usr/include/muduo/base/CurrentThread.h /usr/include/muduo/net/TimerId.h \
+ /home/jyhlinux/share/mprpc/src/include/logger.h \
+ /home/jyhlinux/share/mprpc/src/include/lockqueue.h \
+ /usr/include/c++/9/queue /usr/include/c++/9/deque \
+ /usr/include/c++/9/bits/stl_deque.h /usr/include/c++/9/bits/deque.tcc \
+ /usr/include/c++/9/bits/stl_queue.h /usr/include/c++/9/thread \
+ /usr/include/c++/9/condition_variable

@@ -1,0 +1,4 @@
+10:14:42=>[ERROR]INFO message
+10:14:42=>[ERROR]ERROR message
+10:14:42=>[INFO]service_name:FriendServiceRpc
+10:14:42=>[INFO]method_name:GetFriendsList

@@ -216,7 +216,7 @@ mprpc_BINARY_DIR:STATIC=/home/jyhlinux/share/mprpc/build
 mprpc_IS_TOP_LEVEL:STATIC=ON
 
 //Dependencies for the target
-mprpc_LIB_DEPENDS:STATIC=general;muduo_net;general;muduo_base;general;pthread;
+mprpc_LIB_DEPENDS:STATIC=general;muduo_net;general;muduo_base;general;pthread;general;zookeeper_mt;
 
 //Value Computed by CMake
 mprpc_SOURCE_DIR:STATIC=/home/jyhlinux/share/mprpc
